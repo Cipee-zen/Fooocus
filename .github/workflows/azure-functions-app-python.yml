@@ -55,4 +55,4 @@ jobs:
         popd
 
     - name: 'Run Azure Functions Action'
-      run: 'python .launch.py'
+      run: 'python launch.py'
